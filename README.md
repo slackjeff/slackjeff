@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hello 👋
+I am a teacher programming and technology lover from the 70s/80s and 90s. My main distribution Linux is Slackware since 2008 and my favorite language is Shell (POSIX)
+I love minimalism and simplicity! (Keep it simple stupid) 😄
 
-<!--
-**slackjeff/slackjeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### My puppies
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
